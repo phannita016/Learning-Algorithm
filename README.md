@@ -1,3 +1,5 @@
-### Overview - Learning Algorithm
+### Overview - Learning Algorithm (❁´◡`❁)
 
-  ` “ You, as a programmer, are not writing code, you’re solving problems. ” ` (❁´◡`❁)
+```
+  “ You, as a programmer, are not writing code, you’re solving problems. ”
+```
